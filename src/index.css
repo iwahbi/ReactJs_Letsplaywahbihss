@@ -1,0 +1,8 @@
+body {
+  background-image: url('../public/office.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
