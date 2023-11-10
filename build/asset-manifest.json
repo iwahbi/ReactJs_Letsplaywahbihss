@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iwahbi/ReactJs_Letsplaywahbihss.git/static/css/main.c8e9a746.css",
+    "main.js": "/iwahbi/ReactJs_Letsplaywahbihss.git/static/js/main.fc22971c.js",
+    "static/js/787.4da5b6da.chunk.js": "/iwahbi/ReactJs_Letsplaywahbihss.git/static/js/787.4da5b6da.chunk.js",
+    "static/media/office.jpg": "/iwahbi/ReactJs_Letsplaywahbihss.git/static/media/office.51bb9e74a4513713c830.jpg",
+    "index.html": "/iwahbi/ReactJs_Letsplaywahbihss.git/index.html",
+    "main.c8e9a746.css.map": "/iwahbi/ReactJs_Letsplaywahbihss.git/static/css/main.c8e9a746.css.map",
+    "main.fc22971c.js.map": "/iwahbi/ReactJs_Letsplaywahbihss.git/static/js/main.fc22971c.js.map",
+    "787.4da5b6da.chunk.js.map": "/iwahbi/ReactJs_Letsplaywahbihss.git/static/js/787.4da5b6da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8e9a746.css",
+    "static/js/main.fc22971c.js"
+  ]
+}
